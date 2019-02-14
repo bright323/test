@@ -1,4 +1,4 @@
-创建一个版本库非常简单，首先，选择一个合适的地方，创建一个空目录：
+﻿创建一个版本库非常简单，首先，选择一个合适的地方，创建一个空目录：
 
 $ mkdir test （生成文件夹）
 $ cd test
@@ -56,8 +56,6 @@ stash@{0}: WIP on dev: f52c633 add merge
 另一种方式是用git stash pop，恢复的同时把stash内容也删了：
 
 
-
-
-
-
 : + q 退出
+
+参考网址：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
